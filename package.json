@@ -1,0 +1,28 @@
+{
+  "name": "course_project",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleroom/Course_project.git"
+  },
+  "author": "Alex Rom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleroom/Course_project/issues"
+  },
+  "homepage": "https://github.com/aleroom/Course_project#readme",
+  "dependencies": {
+    "sass": "^1.54.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0"
+  }
+}
