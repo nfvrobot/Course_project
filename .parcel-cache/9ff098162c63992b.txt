@@ -1,4 +1,4 @@
-4335
+4350
 82D:\TeachMeSkill\Course_project\node_modules\terser\node_modules\commander\index.js133040848913202541 0
 87D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\localecompare.js133040849030523403 0
 78D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\midi.js133040849031319785 0
@@ -37,15 +37,12 @@
 94D:\TeachMeSkill\Course_project\node_modules\posthtml\node_modules\posthtml-parser\package.json133040848897249336 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\RU.js133040849034818417 0
 67D:\TeachMeSkill\Course_project\node_modules\csso\lib\replace\atrule133040848917866523 1
-35D:\TeachMeSkill\Course_project\dist133040918568705383 1
+35D:\TeachMeSkill\Course_project\dist133045261784288776 1
 140D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\subfolder1\subfolder2133040848961880608 1
-34D:\TeachMeSkill\Course_project\img133040851296252761 1
+34D:\TeachMeSkill\Course_project\img133045165849999746 1
 81D:\TeachMeSkill\Course_project\node_modules\msgpackr-extract\src\.vs\src\v16\.suo133040848864699857 0
 82D:\TeachMeSkill\Course_project\node_modules\@parcel\core\src\public\BundleGroup.js133040848959455231 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\MW.js133040849031947542 0
-58D:\TeachMeSkill\Course_project\node_modules\.bin\acorn.cmd133040849042944580 0
-51D:\TeachMeSkill\Course_project\node_modules\globals133040848872367280 1
-56D:\TeachMeSkill\Course_project\node_modules\svgo\LICENSE133040848865773046 0
 34D:\TeachMeSkill\Course_project\src133040861871135379 1
 68D:\TeachMeSkill\Course_project\node_modules\terser\tools\terser.d.ts133040848960907935 0
 105D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133040848967483060 0
@@ -58,7 +55,7 @@
 62D:\TeachMeSkill\Course_project\node_modules\readdirp\README.md133040806438380175 0
 71D:\TeachMeSkill\Course_project\node_modules\yaml\browser\types\pairs.js133040848887074812 0
 43D:\TeachMeSkill\Course_project\node_modules133040877552894319 1
-74D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1133040848868640957 1
+74D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1133040848868901708 1
 87D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-svg\lib\dependencies.js133040848881762358 0
 93D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web133040848970229850 1
 52D:\TeachMeSkill\Course_project\node_modules\entities133040848887962376 1
@@ -68,7 +65,7 @@
 76D:\TeachMeSkill\Course_project\node_modules\update-browserslist-db\README.md133040848870541902 0
 64D:\TeachMeSkill\Course_project\node_modules\postcss-value-parser133040848873640814 1
 72D:\TeachMeSkill\Course_project\node_modules\commander\typings\index.d.ts133040848897299472 0
-45D:\TeachMeSkill\Course_project\src\index.html133040918567391072 0
+45D:\TeachMeSkill\Course_project\src\index.html133045257331319579 0
 91D:\TeachMeSkill\Course_project\node_modules\@jridgewell\set-array\dist\types\set-array.d.ts133040848869082208 0
 82D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-js\src\dev-prelude.js133040848883682600 0
 77D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\pseudo\has.js133040848941182157 0
@@ -91,20 +88,35 @@
 54D:\TeachMeSkill\Course_project\node_modules\css-select133040848899335111 1
 69D:\TeachMeSkill\Course_project\node_modules\terser\dist\bundle.min.js133040848900700120 0
 54D:\TeachMeSkill\Course_project\node_modules\yaml\types133040848929281362 1
-53D:\TeachMeSkill\Course_project\node_modules\@mischnic133040848854548498 1
+53D:\TeachMeSkill\Course_project\node_modules\@mischnic133040848854785434 1
 82D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\css-zoom.js133040848988941508 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\VA.js133040849038496757 0
 68D:\TeachMeSkill\Course_project\node_modules\dom-serializer\README.md133040848878619693 0
 60D:\TeachMeSkill\Course_project\node_modules\stable\README.md133040848863115570 0
 86D:\TeachMeSkill\Course_project\node_modules\htmlnano\lib\modules\collapseWhitespace.js133040848873470316 0
-39D:\TeachMeSkill\Course_project\src\sass133040861871135379 1
+39D:\TeachMeSkill\Course_project\src\sass133045213723285488 1
 90D:\TeachMeSkill\Course_project\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133040848930028638 0
 84D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133040848973431304 1
+50D:\TeachMeSkill\Course_project\src\sass\fonts.scss133045261421887575 0
+87D:\TeachMeSkill\Course_project\node_modules\type-fest\source\union-to-intersection.d.ts133040848918548331 0
 68D:\TeachMeSkill\Course_project\node_modules\ansi-styles\package.json133040848866755737 0
 76D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb\libraries133040848872026379 1
 84D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\array-flat.js133040848913934585 0
 72D:\TeachMeSkill\Course_project\node_modules\yaml\browser\types\binary.js133040848865080904 0
-50D:\TeachMeSkill\Course_project\src\sass\index.scss133040901363470693 0
+50D:\TeachMeSkill\Course_project\src\sass\index.scss133045261789431018 0
+72D:\TeachMeSkill\Course_project\node_modules\nth-check\lib\compile.js.map133040848873470316 0
+57D:\TeachMeSkill\Course_project\node_modules\msgpackr\dist133040848885156512 1
+64D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\scripts133040848962793071 1
+74D:\TeachMeSkill\Course_project\node_modules\source-map-js\lib\array-set.js133040806438485448 0
+69D:\TeachMeSkill\Course_project\node_modules\terser\lib\mozilla-ast.js133040848931322198 0
+87D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\test\integration\workerfarm133040848916629558 1
+75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\HK.js133040849027401104 0
+72D:\TeachMeSkill\Course_project\node_modules\posthtml\types\posthtml.d.ts133040848877486751 0
+80D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\node\Brackets.js133040848873931635 0
+83D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\package.json133040848887420781 0
+72D:\TeachMeSkill\Course_project\node_modules\@jridgewell\resolve-uri\dist133040848868921765 1
+92D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\permissions-policy.js133040849033326798 0
+54D:\TeachMeSkill\Course_project\src\sass\wariables.scss133045265510524585 0
 53D:\TeachMeSkill\Course_project\node_modules\csso\dist133040848899415413 1
 64D:\TeachMeSkill\Course_project\node_modules\picocolors\README.md133040848865893366 0
 54D:\TeachMeSkill\Course_project\node_modules\domhandler133040848869870162 1
@@ -164,7 +176,7 @@
 51D:\TeachMeSkill\Course_project\node_modules\is-json133040848868069373 1
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\KM.js133040849029893050 0
 70D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_throw.js133040848960668544 0
-50D:\TeachMeSkill\Course_project\node_modules\@types133040848854563587 1
+50D:\TeachMeSkill\Course_project\node_modules\@types133040848854825538 1
 65D:\TeachMeSkill\Course_project\node_modules\posthtml\package.json133040848873049204 0
 57D:\TeachMeSkill\Course_project\node_modules\color-convert133040848871625237 1
 80D:\TeachMeSkill\Course_project\node_modules\@lmdb\lmdb-win32-x64\node.abi93.node133040848915414510 0
@@ -234,11 +246,12 @@
 71D:\TeachMeSkill\Course_project\node_modules\node-addon-api\CHANGELOG.md133040848897108962 0
 68D:\TeachMeSkill\Course_project\node_modules\supports-color\readme.md133040848869022125 0
 66D:\TeachMeSkill\Course_project\node_modules\entities\lib\decode.js133040848868991951 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_3.png133045166853947157 0
 49D:\TeachMeSkill\Course_project\node_modules\chalk133040848887521048 1
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\CM.js133040848968048796 0
 71D:\TeachMeSkill\Course_project\node_modules\source-map-js\source-map.js133040806439432975 0
 69D:\TeachMeSkill\Course_project\node_modules\parcel\src\.eslintrc.json133040848896597541 0
-85D:\TeachMeSkill\Course_project\node_modules\@parcel\reporter-dev-server\src\templates133040848883983394 1
+85D:\TeachMeSkill\Course_project\node_modules\@parcel\reporter-dev-server\src\templates133040848885046238 1
 82D:\TeachMeSkill\Course_project\node_modules\type-fest\source\conditional-pick.d.ts133040848879326730 0
 49D:\TeachMeSkill\Course_project\node_modules\clone133040848873821347 1
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\stream.js133040849036072242 0
@@ -297,6 +310,16 @@
 70D:\TeachMeSkill\Course_project\node_modules\source-map\source-map.d.ts133040848882183522 0
 95D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\css-image-orientation.js133040848974444081 0
 58D:\TeachMeSkill\Course_project\node_modules\ordered-binary133040848874483102 1
+78D:\TeachMeSkill\Course_project\node_modules\type-fest\source\set-required.d.ts133040848915594987 0
+60D:\TeachMeSkill\Course_project\node_modules\cosmiconfig\dist133040848918889620 1
+68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-svg\lib133040848881952878 1
+55D:\TeachMeSkill\Course_project\node_modules\glob-parent133040806444343072 1
+80D:\TeachMeSkill\Course_project\node_modules\dom-serializer\lib\foreignNames.d.ts133040848881391404 0
+68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-css\src133040848882594655 1
+53D:\TeachMeSkill\Course_project\node_modules\yaml\dist133040848931592893 1
+58D:\TeachMeSkill\Course_project\node_modules\.bin\acorn.cmd133040849042944580 0
+51D:\TeachMeSkill\Course_project\node_modules\globals133040848872367280 1
+56D:\TeachMeSkill\Course_project\node_modules\svgo\LICENSE133040848865773046 0
 66D:\TeachMeSkill\Course_project\node_modules\nth-check\package.json133040848870231067 0
 75D:\TeachMeSkill\Course_project\node_modules\@jridgewell\sourcemap-codec\src133040848871209073 1
 57D:\TeachMeSkill\Course_project\node_modules\svgo\bin\svgo133040848867567906 0
@@ -309,13 +332,6 @@
 78D:\TeachMeSkill\Course_project\node_modules\@mischnic\json-sourcemap\README.md133040848870351390 0
 73D:\TeachMeSkill\Course_project\node_modules\type-fest\source\mutable.d.ts133040848898713437 0
 120D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-x64-musl.node133040848967722817 0
-78D:\TeachMeSkill\Course_project\node_modules\type-fest\source\set-required.d.ts133040848915594987 0
-60D:\TeachMeSkill\Course_project\node_modules\cosmiconfig\dist133040848918889620 1
-68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-svg\lib133040848881952878 1
-55D:\TeachMeSkill\Course_project\node_modules\glob-parent133040806444343072 1
-80D:\TeachMeSkill\Course_project\node_modules\dom-serializer\lib\foreignNames.d.ts133040848881391404 0
-68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-css\src133040848882594655 1
-53D:\TeachMeSkill\Course_project\node_modules\yaml\dist133040848931592893 1
 65D:\TeachMeSkill\Course_project\node_modules\@parcel\css\README.md133040848873951721 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\LR.js133040849030565817 0
 65D:\TeachMeSkill\Course_project\node_modules\boolbase\package.json133040848861042615 0
@@ -443,15 +459,13 @@
 69D:\TeachMeSkill\Course_project\node_modules\utility-types\SECURITY.md133040848883632472 0
 61D:\TeachMeSkill\Course_project\node_modules\tslib\LICENSE.txt133040848879848125 0
 90D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\domcontentloaded.js133040849013219228 0
+63D:\TeachMeSkill\Course_project\node_modules\@lezer\lr\README.md133040848874001827 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\WS.js133040849039836164 0
 65D:\TeachMeSkill\Course_project\node_modules\base-x\src\index.d.ts133040848873099316 0
-63D:\TeachMeSkill\Course_project\node_modules\@lezer\lr\README.md133040848874001827 0
 83D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\objectrtc.js133040849032686327 0
 95D:\TeachMeSkill\Course_project\node_modules\posthtml\node_modules\posthtml-parser\dist\index.js133040848895178710 0
 71D:\TeachMeSkill\Course_project\node_modules\type-fest\source\merge.d.ts133040848897941295 0
 65D:\TeachMeSkill\Course_project\node_modules\acorn\dist\acorn.d.ts133040848882103267 0
-90D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\broadcastchannel.js133040848961569698 0
-98D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0133040848958963991 1
 60D:\TeachMeSkill\Course_project\node_modules\mdn-data\LICENSE133040848860160168 0
 53D:\TeachMeSkill\Course_project\node_modules\nth-check133040848886638487 1
 78D:\TeachMeSkill\Course_project\node_modules\cosmiconfig\dist\getDirectory.d.ts133040848916875404 0
@@ -503,7 +517,7 @@
 81D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-js\lib\helpers\worker133040848930760638 1
 70D:\TeachMeSkill\Course_project\node_modules\parent-module\package.json133040848862524133 0
 66D:\TeachMeSkill\Course_project\node_modules\ansi-styles\index.d.ts133040848869573495 0
-69D:\TeachMeSkill\Course_project\node_modules\@parcel\namer-default\lib133040848883261477 1
+69D:\TeachMeSkill\Course_project\node_modules\@parcel\namer-default\lib133040848883652520 1
 82D:\TeachMeSkill\Course_project\node_modules\@jridgewell\trace-mapping\package.json133040848862764504 0
 52D:\TeachMeSkill\Course_project\node_modules\readdirp133040806438480436 1
 68D:\TeachMeSkill\Course_project\node_modules\nullthrows\nullthrows.js133040848872467547 0
@@ -639,13 +653,13 @@
 78D:\TeachMeSkill\Course_project\node_modules\xxhash-wasm\cjs\xxhash-wasm.js.map133040848872638047 0
 103D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133040848921613467 0
 57D:\TeachMeSkill\Course_project\node_modules\yaml\types.js133040848930640274 0
-67D:\TeachMeSkill\Course_project\node_modules\source-map\package.json133040848860110029 0
-64D:\TeachMeSkill\Course_project\node_modules\json5\lib\require.js133040848879662624 0
 81D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\pointer.js133040849033726408 0
 69D:\TeachMeSkill\Course_project\node_modules\css-select\lib\general.js133040848868891704 0
 65D:\TeachMeSkill\Course_project\node_modules\ordered-binary\assets133040848873480332 1
 63D:\TeachMeSkill\Course_project\node_modules\buffer-from\LICENSE133040848860120067 0
 83D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\dragndrop.js133040849016148585 0
+64D:\TeachMeSkill\Course_project\node_modules\json5\lib\require.js133040848879662624 0
+67D:\TeachMeSkill\Course_project\node_modules\source-map\package.json133040848860110029 0
 70D:\TeachMeSkill\Course_project\node_modules\mdn-data\css\at-rules.json133040848867307276 0
 70D:\TeachMeSkill\Course_project\node_modules\@parcel\cache\lib\types.js133040848898342356 0
 69D:\TeachMeSkill\Course_project\node_modules\terser\lib\utils\index.js133040848929211180 0
@@ -665,8 +679,8 @@
 106D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-web\package.json133040848913643734 0
 75D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-browser-hmr\src133040848885161607 1
 73D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_ts_param.js133040848961629866 0
-87D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\border-radius.js133040848961258871 0
 62D:\TeachMeSkill\Course_project\node_modules\yaml\types\omap.js133040848884058607 0
+87D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\border-radius.js133040848961258871 0
 94D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.h133040848968229287 0
 63D:\TeachMeSkill\Course_project\node_modules\yaml\types\pairs.js133040848887922117 0
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webhid.js133040849039285440 0
@@ -817,7 +831,7 @@
 79D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\dist\unpacker\index.js133040849028153903 0
 74D:\TeachMeSkill\Course_project\node_modules\nth-check\lib\esm\compile.d.ts133040848895038276 0
 88D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\css-namespaces.js133040848975546558 0
-72D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-html\lib133040848880113830 1
+72D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-html\lib133040848882374090 1
 82D:\TeachMeSkill\Course_project\node_modules\yaml\browser\dist\warnings-df54cb69.js133040848932024143 0
 66D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb133040848871795760 1
 111D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\index.js133040848904811006 0
@@ -849,7 +863,7 @@
 108D:\TeachMeSkill\Course_project\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133040848899465449 0
 100D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo133040848964842851 1
 63D:\TeachMeSkill\Course_project\node_modules\weak-lru-cache\dist133040848862293527 1
-72D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-terser\lib133040848883863083 1
+72D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-terser\lib133040848884299250 1
 100D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\fixtures\invalid-target-source-missing133040848975606726 1
 68D:\TeachMeSkill\Course_project\node_modules\terser\lib\propmangle.js133040848940024643 0
 92D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\font-unicode-range.js133040849025944106 0
@@ -944,7 +958,7 @@
 76D:\TeachMeSkill\Course_project\node_modules\@parcel\utils\src\http-server.js133040848929988540 0
 63D:\TeachMeSkill\Course_project\node_modules\type-fest\base.d.ts133040848871289298 0
 73D:\TeachMeSkill\Course_project\node_modules\mdn-data\css\definitions.json133040848873450249 0
-84D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133040848868901708 1
+84D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries133040848869152372 1
 85D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\pointerlock.js133040849033746464 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\HR.js133040849027492439 0
 89D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\css-crisp-edges.js133040848972288144 0
@@ -1030,7 +1044,6 @@
 89D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\contenteditable.js133040848969607704 0
 81D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-react-refresh\LICENSE133040848874202358 0
 78D:\TeachMeSkill\Course_project\node_modules\type-fest\source\set-optional.d.ts133040848914216770 0
-87D:\TeachMeSkill\Course_project\node_modules\type-fest\source\union-to-intersection.d.ts133040848918548331 0
 90D:\TeachMeSkill\Course_project\node_modules\node-gyp-build-optional-packages\build-test.js133040848865000690 0
 56D:\TeachMeSkill\Course_project\node_modules\svgo\plugins133040848960447963 1
 75D:\TeachMeSkill\Course_project\node_modules\type-fest\source\utilities.d.ts133040848918829458 0
@@ -1129,6 +1142,7 @@
 64D:\TeachMeSkill\Course_project\node_modules\parse-json\readme.md133040848867397458 0
 81D:\TeachMeSkill\Course_project\node_modules\terser\node_modules\commander\typings133040848916005139 1
 60D:\TeachMeSkill\Course_project\node_modules\msgpackr\LICENSE133040848867196916 0
+57D:\TeachMeSkill\Course_project\img\icons\twitter_icon.png133045208682068914 0
 77D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\node\index.js133040848960468016 0
 76D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\node\Hash.js133040848941559076 0
 80D:\TeachMeSkill\Course_project\node_modules\css-what\lib\commonjs\parse.d.ts.map133040848879813027 0
@@ -1145,11 +1159,6 @@
 92D:\TeachMeSkill\Course_project\node_modules\css-select\lib\pseudo-selectors\aliases.d.ts.map133040848881962905 0
 90D:\TeachMeSkill\Course_project\node_modules\svgo\plugins\removeNonInheritableGroupAttrs.js133040848940084800 0
 64D:\TeachMeSkill\Course_project\node_modules\terser\lib\minify.js133040848930810777 0
-72D:\TeachMeSkill\Course_project\node_modules\nth-check\lib\compile.js.map133040848873470316 0
-57D:\TeachMeSkill\Course_project\node_modules\msgpackr\dist133040848885156512 1
-64D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\scripts133040848962793071 1
-74D:\TeachMeSkill\Course_project\node_modules\source-map-js\lib\array-set.js133040806438485448 0
-69D:\TeachMeSkill\Course_project\node_modules\terser\lib\mozilla-ast.js133040848931322198 0
 62D:\TeachMeSkill\Course_project\node_modules\terser\lib\size.js133040848943123796 0
 66D:\TeachMeSkill\Course_project\node_modules\supports-color\license133040848863847542 0
 91D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\sharedarraybuffer.js133040849035559898 0
@@ -1191,7 +1200,7 @@
 89D:\TeachMeSkill\Course_project\node_modules\posthtml\node_modules\posthtml-parser\license133040848886798905 0
 65D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html133040848882524479 1
 64D:\TeachMeSkill\Course_project\node_modules\stable\stable.min.js133040848865963547 0
-46D:\TeachMeSkill\Course_project\dist\index.html133040918568675314 0
+46D:\TeachMeSkill\Course_project\dist\index.html133045261784228624 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\BB.js133040848941759654 0
 64D:\TeachMeSkill\Course_project\node_modules\is-extglob\README.md133040806443831723 0
 64D:\TeachMeSkill\Course_project\node_modules\term-size\index.d.ts133040848879246527 0
@@ -1411,7 +1420,7 @@
 98D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133040848976228499 1
 76D:\TeachMeSkill\Course_project\node_modules\nth-check\lib\esm\parse.d.ts.map133040848882634764 0
 81D:\TeachMeSkill\Course_project\node_modules\@parcel\core\src\public\Dependency.js133040848961459402 0
-54D:\TeachMeSkill\Course_project\node_modules\semver\bin133040848867613077 1
+54D:\TeachMeSkill\Course_project\node_modules\semver\bin133040848868310013 1
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\BF.js133040848959324893 0
 63D:\TeachMeSkill\Course_project\node_modules\semver\CHANGELOG.md133040848873500388 0
 73D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lz4\lib\dll133040848972518749 1
@@ -1590,13 +1599,6 @@
 106D:\TeachMeSkill\Course_project\node_modules\abortcontroller-polyfill\dist\abortcontroller-polyfill-only.js133040848871765735 0
 57D:\TeachMeSkill\Course_project\node_modules\css-tree\dist133040848917936704 1
 62D:\TeachMeSkill\Course_project\node_modules\posthtml\readme.md133040848873891528 0
-87D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\test\integration\workerfarm133040848916629558 1
-75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\HK.js133040849027401104 0
-72D:\TeachMeSkill\Course_project\node_modules\posthtml\types\posthtml.d.ts133040848877486751 0
-80D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\node\Brackets.js133040848873931635 0
-83D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\package.json133040848887420781 0
-72D:\TeachMeSkill\Course_project\node_modules\@jridgewell\resolve-uri\dist133040848868921765 1
-92D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\permissions-policy.js133040849033326798 0
 88D:\TeachMeSkill\Course_project\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133040848872116610 0
 92D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\packages133040848962361886 1
 81D:\TeachMeSkill\Course_project\node_modules\posthtml\node_modules\posthtml-parser133040848897650477 1
@@ -1608,6 +1610,7 @@
 135D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.json133040848962652656 0
 72D:\TeachMeSkill\Course_project\node_modules\css-tree\lib\syntax\index.js133040848960297560 0
 63D:\TeachMeSkill\Course_project\node_modules\posthtml\lib\api.js133040848870767916 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_2.png133045166782852632 0
 80D:\TeachMeSkill\Course_project\node_modules\css-what\lib\commonjs\index.d.ts.map133040848876504068 0
 68D:\TeachMeSkill\Course_project\node_modules\postcss-value-parser\lib133040848874372817 1
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\TM.js133040849037576060 0
@@ -1901,7 +1904,7 @@
 62D:\TeachMeSkill\Course_project\node_modules\lmdb\dict\dict.txt133040848973080365 0
 63D:\TeachMeSkill\Course_project\node_modules\lmdb\dict\dict2.txt133040848973140625 0
 93D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\background-img-opts.js133040848932525482 0
-65D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lz4133040848883226388 1
+65D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lz4133040848885725819 1
 74D:\TeachMeSkill\Course_project\node_modules\commander\package-support.json133040848884324312 0
 90D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb.c133040848959720973 0
 64D:\TeachMeSkill\Course_project\node_modules\lmdb\dependencies\v8133040848970650971 1
@@ -2043,6 +2046,7 @@
 69D:\TeachMeSkill\Course_project\node_modules\@parcel\css\node\index.js133040848872016338 0
 80D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\serializer.test.js133040848972298157 0
 62D:\TeachMeSkill\Course_project\node_modules\is-json\.npmignore133040848862032828 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_4.png133045166928972842 0
 60D:\TeachMeSkill\Course_project\node_modules\has-flag\license133040848864499276 0
 74D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_construct.js133040848916468707 0
 88D:\TeachMeSkill\Course_project\node_modules\css-select\lib\pseudo-selectors\filters.d.ts133040848903354565 0
@@ -2297,7 +2301,7 @@
 81D:\TeachMeSkill\Course_project\node_modules\csso\lib\restructure\1-mergeAtrule.js133040848862443922 0
 65D:\TeachMeSkill\Course_project\node_modules\entities\lib\index.js133040848872517683 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\SB.js133040849034991450 0
-72D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml133040848873771202 1
+72D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml133040848880173988 1
 96D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-js\src\helpers\browser\css-loader.js133040848898091687 0
 73D:\TeachMeSkill\Course_project\node_modules\entities\lib\maps\legacy.json133040848877812591 0
 70D:\TeachMeSkill\Course_project\node_modules\entities\lib\maps\xml.json133040848880249186 0
@@ -2656,7 +2660,7 @@
 95D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\subresource-integrity.js133040849036192551 0
 71D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\src133040848932535509 1
 69D:\TeachMeSkill\Course_project\node_modules\css-select\lib\index.d.ts133040848912434178 0
-72D:\TeachMeSkill\Course_project\node_modules\@parcel\resolver-default\lib133040848879000867 1
+72D:\TeachMeSkill\Course_project\node_modules\@parcel\resolver-default\lib133040848879752870 1
 67D:\TeachMeSkill\Course_project\node_modules\css-select\lib\index.js133040848870361419 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\BZ.js133040848963244310 0
 73D:\TeachMeSkill\Course_project\node_modules\css-select\lib\procedure.d.ts133040848913824295 0
@@ -2762,7 +2766,7 @@
 78D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\dist\lib\supported.js133040849036212610 0
 97D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-js\src\helpers\browser\wasm-loader.js133040848931001317 0
 71D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\agents.js133040848881932811 0
-69D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html\lib133040848879000867 1
+69D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html\lib133040848879752870 1
 70D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features133040849040046783 1
 84D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\RequestTracker.test.js133040848971927270 0
 69D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions133040849040212263 1
@@ -2855,7 +2859,7 @@
 122D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133040848976048005 1
 87D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock133040848976258571 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\LY.js133040849030706213 0
-58D:\TeachMeSkill\Course_project\node_modules\@parcel\logger133040848898262149 1
+58D:\TeachMeSkill\Course_project\node_modules\@parcel\logger133040848899335111 1
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\MA.js133040849030736285 0
 81D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\colr-v1.js133040848968580486 0
 75D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\regions\MC.js133040849030943966 0
@@ -2945,6 +2949,8 @@
 67D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\dist133040848903769404 1
 86D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\border-image.js133040848961128522 0
 90D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\css-writing-mode.js133040848988911436 0
+90D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\broadcastchannel.js133040848961569698 0
+98D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0133040848958963991 1
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\brotli.js133040848961669962 0
 87D:\TeachMeSkill\Course_project\node_modules\@parcel\core\lib\requests\PackageRequest.js133040848968128995 0
 78D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\calc.js133040848964696709 0
@@ -3372,7 +3378,7 @@
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webgl2.js133040849039234132 0
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webgpu.js133040849039254213 0
 78D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webm.js133040849039334415 0
-71D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\lib\threads133040848917327839 1
+71D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\lib\threads133040848918478139 1
 80D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webnfc.js133040849039364531 0
 84D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\websockets.js133040849039414626 0
 79D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\webvr.js133040849039475215 0
@@ -3386,7 +3392,7 @@
 89D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\x-frame-options.js133040849039911413 0
 156D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-down\foo\bar\baz\package.json133040848966871117 0
 78D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\xhr2.js133040849039951517 0
-68D:\TeachMeSkill\Course_project\node_modules\@parcel\resolver-default133040848881021420 1
+68D:\TeachMeSkill\Course_project\node_modules\@parcel\resolver-default133040848882293804 1
 79D:\TeachMeSkill\Course_project\node_modules\caniuse-lite\data\features\xhtml.js133040849040001656 0
 91D:\TeachMeSkill\Course_project\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133040848969587653 0
 107D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\package.json133040848913262699 0
@@ -3397,7 +3403,7 @@
 64D:\TeachMeSkill\Course_project\node_modules\buffer-from\index.js133040848861142887 0
 70D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-svgo\src133040848881922782 1
 63D:\TeachMeSkill\Course_project\node_modules\browserslist\cli.js133040848870311391 0
-76D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\test\integration133040848881822523 1
+76D:\TeachMeSkill\Course_project\node_modules\@parcel\workers\test\integration133040848882093321 1
 74D:\TeachMeSkill\Course_project\node_modules\@parcel\utils\src\sourcemap.js133040848962943510 0
 65D:\TeachMeSkill\Course_project\node_modules\browserslist\error.js133040848871745551 0
 69D:\TeachMeSkill\Course_project\node_modules\@parcel\markdown-ansi\src133040848874072019 1
@@ -3429,7 +3435,7 @@
 65D:\TeachMeSkill\Course_project\node_modules\ansi-styles\readme.md133040848868189682 0
 53D:\TeachMeSkill\Course_project\node_modules\acorn\bin133040848860130110 1
 62D:\TeachMeSkill\Course_project\node_modules\acorn\CHANGELOG.md133040848871755597 0
-70D:\TeachMeSkill\Course_project\node_modules\@parcel\compressor-raw\lib133040848882258729 1
+70D:\TeachMeSkill\Course_project\node_modules\@parcel\compressor-raw\lib133040848882594655 1
 62D:\TeachMeSkill\Course_project\node_modules\acorn\package.json133040848870040554 0
 59D:\TeachMeSkill\Course_project\node_modules\acorn\bin\acorn133040848860320589 0
 72D:\TeachMeSkill\Course_project\node_modules\abortcontroller-polyfill\src133040848884509802 1
@@ -3515,7 +3521,7 @@
 89D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_async_generator_delegate.js133040848873871472 0
 101D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\supports-color\package.json133040848887551161 0
 79D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_async_iterator.js133040848876403806 0
-62D:\TeachMeSkill\Course_project\node_modules\@parcel\plugin\lib133040848872076584 1
+62D:\TeachMeSkill\Course_project\node_modules\@parcel\plugin\lib133040848872477570 1
 99D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_class_apply_descriptor_destructure.js133040848882965644 0
 91D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_class_apply_descriptor_get.js133040848883988415 0
 94D:\TeachMeSkill\Course_project\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133040848886011749 0
@@ -3748,7 +3754,7 @@
 117D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js133040848876634412 0
 71D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-raw\src133040848872256989 1
 89D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-raw\lib\RawTransformer.js133040848871259209 0
-76D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml\lib133040848873069255 1
+76D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml\lib133040848877637087 1
 76D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml\src133040848878845455 1
 99D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-posthtml\src\PostHTMLTransformer.js133040848879231494 0
 75D:\TeachMeSkill\Course_project\node_modules\@parcel\transformer-postcss\lib133040848882925551 1
@@ -3820,11 +3826,11 @@
 88D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133040848901803800 0
 93D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\dist\wasm-bindings-web.js.flow133040848883512144 0
 89D:\TeachMeSkill\Course_project\node_modules\@parcel\source-map\dist\wasm-bindings.js.flow133040848884339356 0
-78D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-service-worker\lib133040848876609349 1
+78D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-service-worker\lib133040848878093363 1
 82D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-service-worker\LICENSE133040848874292600 0
 87D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-service-worker\package.json133040848881441510 0
 78D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-service-worker\src133040848879672651 1
-77D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-react-refresh\lib133040848876283481 1
+77D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-react-refresh\lib133040848877767431 1
 86D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-react-refresh\package.json133040848881211957 0
 77D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\fixtures\parcel133040848976268592 1
 100D:\TeachMeSkill\Course_project\node_modules\@parcel\runtime-react-refresh\lib\ReactRefreshRuntime.js133040848878163475 0
@@ -3895,7 +3901,7 @@
 73D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html\LICENSE133040848878464278 0
 78D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html\package.json133040848882634764 0
 69D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-html\src133040848881461555 1
-68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-css\lib133040848881091585 1
+68D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-css\lib133040848881571854 1
 72D:\TeachMeSkill\Course_project\node_modules\@parcel\packager-css\LICENSE133040848880153940 0
 71D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\lib133040848961258871 1
 81D:\TeachMeSkill\Course_project\node_modules\@parcel\package-manager\test\fixtures133040848941358476 1
@@ -3929,11 +3935,11 @@
 100D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-image\parcel-image.linux-x64-musl.node133040848970816437 0
 100D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-image\parcel-image.win32-x64-msvc.node133040848971792712 0
 89D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-image\lib\ImageOptimizer.js133040848887531074 0
-74D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\lib133040848882534506 1
+74D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\lib133040848884860732 1
 95D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133040848884088679 0
 95D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\lib\HTMLNanoOptimizer.js133040848882735036 0
 89D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-htmlnano\lib\svgMappings.js133040848885417217 0
-69D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-css\lib133040848881317258 1
+69D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-css\lib133040848881772373 1
 73D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-css\LICENSE133040848880830872 0
 69D:\TeachMeSkill\Course_project\node_modules\@parcel\optimizer-css\src133040848882775132 1
 129D:\TeachMeSkill\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133040848968339871 1
@@ -4052,7 +4058,7 @@
 76D:\TeachMeSkill\Course_project\node_modules\@parcel\events\lib\Disposable.js133040848886096966 0
 76D:\TeachMeSkill\Course_project\node_modules\@parcel\core\test\Parcel.test.js133040848969467333 0
 72D:\TeachMeSkill\Course_project\node_modules\@parcel\events\lib\errors.js133040848896081171 0
-66D:\TeachMeSkill\Course_project\node_modules\@parcel\diagnostic\lib133040848886167159 1
+66D:\TeachMeSkill\Course_project\node_modules\@parcel\diagnostic\lib133040848897309484 1
 70D:\TeachMeSkill\Course_project\node_modules\@parcel\diagnostic\LICENSE133040848885141485 0
 75D:\TeachMeSkill\Course_project\node_modules\@parcel\diagnostic\package.json133040848896662727 0
 67D:\TeachMeSkill\Course_project\node_modules\@parcel\diagnostic\test133040848895178710 1
@@ -4278,6 +4284,7 @@
 91D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\has-flag\index.js133040848885031197 0
 90D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\has-flag\license133040848886041838 0
 92D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\has-flag\readme.md133040848887084844 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_5.png133045208453883478 0
 99D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133040848896848269 0
 93D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\color-name\index.js133040848894561982 0
 97D:\TeachMeSkill\Course_project\node_modules\@babel\highlight\node_modules\color-name\package.json133040848884379516 0
@@ -4329,8 +4336,16 @@
 55D:\TeachMeSkill\Course_project\node_modules\.bin\terser133040849042989726 0
 59D:\TeachMeSkill\Course_project\node_modules\.bin\terser.cmd133040849042989726 0
 77D:\TeachMeSkill\Course_project\img\billy-jo-catbagan-wbFdIybjRiU-unsplash.jpg133040768907172937 0
+40D:\TeachMeSkill\Course_project\img\icons133045213346001464 1
 70D:\TeachMeSkill\Course_project\img\jason-wang-5MG8cQbw-T8-unsplash.jpg133040767991101838 0
-53D:\TeachMeSkill\Course_project\dist\index.739bf03c.js133040901596488394 0
-57D:\TeachMeSkill\Course_project\dist\index.739bf03c.js.map133040901596628762 0
-54D:\TeachMeSkill\Course_project\dist\index.b07a87f3.css133040901596252716 0
-58D:\TeachMeSkill\Course_project\dist\index.b07a87f3.css.map133040901596358056 0
+58D:\TeachMeSkill\Course_project\img\icons\facebook_icon.png133045208625752989 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_1.png133045166015952367 0
+51D:\TeachMeSkill\Course_project\img\icons\icon_6.png133045208516788748 0
+58D:\TeachMeSkill\Course_project\img\icons\linkedin_icon.png133045208755608864 0
+57D:\TeachMeSkill\Course_project\img\icons\Rectangle 18.png133045212826744549 0
+57D:\TeachMeSkill\Course_project\img\icons\Rectangle 19.png133045213346001464 0
+56D:\TeachMeSkill\Course_project\img\icons\Rectangle 2.png133045212750639760 0
+53D:\TeachMeSkill\Course_project\dist\index.739bf03c.js133045261784083231 0
+57D:\TeachMeSkill\Course_project\dist\index.739bf03c.js.map133045261784248716 0
+54D:\TeachMeSkill\Course_project\dist\index.b07a87f3.css133045261783997972 0
+58D:\TeachMeSkill\Course_project\dist\index.b07a87f3.css.map133045261784108265 0
