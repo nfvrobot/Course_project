@@ -1,0 +1,35 @@
+
+@mixin nav {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+@mixin h1 {
+    font-style: Black;
+    font-size: 64px;
+    line-height: 75px;
+    line-height: 100%;
+    text-align: center;
+    color:  $_white;
+    text-transform: uppercase;
+    
+}
+@mixin inner__descr {
+    font-style: 'Regular';
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color:  $_white;
+}
+@mixin inner_btn {
+    font-size: 20px;
+    text-align: center;
+    color:  $_white;
+    text-transform: uppercase;
+    font-weight: 900px;
+    
+    
+}
