@@ -1,5 +1,6 @@
 @import '../sass/fonts.scss';
 @import '../sass/wariables.scss';
+@import '../sass/header.scss';
 
 *{
     margin: 0;
@@ -10,4 +11,11 @@
 }
 html {
     font-family: 'Raleway', sans-serif;
+}
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+    z-index: 2;
 }
