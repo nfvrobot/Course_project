@@ -1,0 +1,14 @@
+@import '../sass/mixins.scss';
+
+#download {
+    padding: 70px 0;
+}
+.down__wrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.down_title {
+   @include down__title;
+}

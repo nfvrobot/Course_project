@@ -1,3 +1,4 @@
+
 @import '../sass/mixins.scss';
 
 #header {
@@ -70,8 +71,11 @@
 .list__item a {
     color:  $_white;
 }
-/*.inner {
-}*/
+.inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .inner__title {
     margin: 70px 0 40px;
     @include h1;

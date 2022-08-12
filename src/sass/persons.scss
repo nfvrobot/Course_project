@@ -1,0 +1,60 @@
+@import '../sass/mixins.scss';
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css);
+
+#persons {
+    padding: 100px 0;
+}
+
+.persons__wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.persons__card {
+    width: 270px;
+}
+/*.persons__content {
+}*/
+.persons__img {
+    width: 270px;
+    height: 270px;
+    margin-bottom: 20px;
+    
+}
+.persons__img img {
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    overflow: hidden;
+    object-fit: cover;
+}
+.persons__name {
+   @include persons__name;
+   margin-bottom: 5px;
+}
+
+.persons__work {
+    @include work;
+    margin-bottom: 15px;
+}
+.persons__text {
+    width: 100%;
+    @include persons__text;
+}
+.persons__nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    
+}
+.fa-brands {
+    color: $_logo;
+}
+.facebook, .twitter, .instagram {
+    
+    margin: auto;
+    font-size: 20px;
+    border: 1px solid $_logo;
+    padding: 7px 10px;
+}

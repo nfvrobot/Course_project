@@ -30,6 +30,69 @@
     color:  $_white;
     text-transform: uppercase;
     font-weight: 900px;
+    text-align: center;
     
     
 }
+
+@mixin card__title {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    text-align: center;
+    text-transform: uppercase;
+    object-position: center;
+    color: $_dark-grey;
+}
+
+@mixin card__text{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: $_light-grey;
+} 
+@mixin persons__name{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: $_dark-grey;
+    }
+
+    @mixin work{
+        font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    text-transform: uppercase;
+    color: $normal_red;
+    }
+    @mixin persons__text {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 21px;
+        display: flex;
+        align-items: center;
+        color: $_light-grey;
+    }
+
+    @mixin down__title {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 100px;
+        color:  $_black;
+    }

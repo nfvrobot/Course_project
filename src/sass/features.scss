@@ -1,1 +1,43 @@
 @import '../sass/mixins.scss';
+
+#features {
+    padding: 117px 10px;
+}
+
+.features__wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: stretch;
+    margin: 0 -15px;
+    flex-wrap: wrap;
+   
+}
+
+.card {
+   width: 30%;
+   margin: 0 15px; 
+}
+.card__content {
+    padding: 10px;
+}
+.card__img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 30px;
+
+}
+.card__title {
+    @include card__title;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+
+}
+.card__text {
+    padding: 5px;
+
+}
+.card__text p{
+    @include card__text;
+    
+}
