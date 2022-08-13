@@ -1,0 +1,33 @@
+@import '../sass/mixins.scss';
+
+#footer__one {
+    padding: 70px 0;
+    background-color: #353C65;
+}
+.location__wrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.location {
+    width: 30%;
+    margin: 0 15px;
+    
+}
+.location__title {
+    margin-bottom: 30px;
+}
+.location__title h4 {
+    @include location__title;
+}
+.location__descr span {
+    text-align: center;
+    @include location__descr
+}
+.location__nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+

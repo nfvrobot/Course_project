@@ -9,6 +9,15 @@
     align-items: center;
 
 }
-.down_title {
+.down__title {
+    margin-bottom: 20px;
+}
+.down__title h3{
    @include down__title;
+}
+.down__descr {
+    margin-bottom: 60px;
+}
+.down__descr span{
+    @include down__descr;
 }

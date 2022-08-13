@@ -30,18 +30,28 @@
     object-fit: cover;
 }
 .persons__name {
-   @include persons__name;
-   margin-bottom: 5px;
+    margin-bottom: 5px;
+}
+.persons__name span {
+    @include persons__name;
 }
 
 .persons__work {
-    @include work;
     margin-bottom: 15px;
+}
+.persons__work span {
+    @include work;
+}
+.persons__text span {
+    @include persons__text;
 }
 .persons__text {
     width: 100%;
-    @include persons__text;
+    margin-bottom: 30px;
+    
 }
+
+
 .persons__nav {
     display: flex;
     flex-direction: row;
@@ -52,9 +62,8 @@
     color: $_logo;
 }
 .facebook, .twitter, .instagram {
-    
-    margin: auto;
-    font-size: 20px;
+    margin-right: 7px;
+    font-size: 17px;
     border: 1px solid $_logo;
     padding: 7px 10px;
 }

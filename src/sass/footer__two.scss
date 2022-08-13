@@ -1,0 +1,20 @@
+@import '../sass/mixins.scss';
+
+#footer__two {
+    padding: 40px 0;
+    background-color: #2C3154;
+}
+
+
+
+.info__text{
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+.info__text span{
+    @include footer__two;
+}
+#mod {
+    color: $_white;
+}
