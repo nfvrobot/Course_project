@@ -10,6 +10,7 @@
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
+    
 }
 .persons__card {
     width: 270px;
@@ -56,13 +57,13 @@
     display: flex;
     flex-direction: row;
     justify-content: start;
+    gap: 0 10px;
     
 }
 .fa-brands {
     color: $_logo;
 }
 .facebook, .twitter, .instagram {
-    margin-right: 7px;
     font-size: 17px;
     border: 1px solid $_logo;
     padding: 7px 10px;
