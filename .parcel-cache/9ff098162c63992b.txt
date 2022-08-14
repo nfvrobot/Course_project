@@ -1,4 +1,4 @@
-4395
+4398
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\BM.js133047093938313640 0
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\cosmiconfig\dist\readFile.js.map133047094492927280 0
 93C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\abortcontroller-polyfill133047093935793638 1
@@ -24,7 +24,7 @@
 150C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-browser-alias\foo.js133047094492887280 0
 122C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\test\fixtures\config\subfolder\.parcelrc133047093935593628 0
 93C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\to-regex-range\README.md133047093934433623 0
-60C:\Users\395Dell\Documents\alexandrochka\Course_project\dist133049537063147560 1
+60C:\Users\395Dell\Documents\alexandrochka\Course_project\dist133049827159516397 1
 89C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\weak-lru-cache\tests133047093934833624 1
 112C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\test\fixtures\config\subfolder133047093935593628 1
 75C:\Users\395Dell\Documents\alexandrochka\Course_project\src\js\slick.min.js133049527632429114 0
@@ -36,12 +36,12 @@
 66C:\Users\395Dell\Documents\alexandrochka\Course_project\.gitignore133040253839402299 0
 74C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\acorn133047094491687295 1
 83C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\type-fest\ts41133047094493167291 1
-105C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\brina-blum-nWX4pKwzLoE-unsplash.2fb9a934.jpg133049528439340149 0
+105C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\brina-blum-nWX4pKwzLoE-unsplash.2fb9a934.jpg133049708328823979 0
 59C:\Users\395Dell\Documents\alexandrochka\Course_project\img133049531976671404 1
 105C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\dependencies\lz4\lib\lz4frame.c133047093937113644 0
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\type-fest\source\promisable.d.ts133047094492887280 0
 112C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\node_modules\node-addon-api\LICENSE.md133047093936393626 0
-78C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\pictures.scss133049515876867525 0
+78C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\pictures.scss133049807746491573 0
 97C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\ordered-binary\tests\test.js133047093934713644 0
 92C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\terser\lib\transform.js133047094494007287 0
 123C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two133047093940393627 1
@@ -51,7 +51,7 @@
 66C:\Users\395Dell\Documents\alexandrochka\Course_project\index.html133040255058918984 0
 80C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\terser\dist133047094494007287 1
 84C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\xxhash-wasm\umd133047093935153623 1
-76C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\bg.6c772103.png133049533047071300 0
+76C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\bg.6c772103.png133049708328863969 0
 76C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\footer.scss133049451706764682 0
 105C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\dist\unpacker\agents.js133047093936473623 0
 108C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\mpeg-dash.js133047093947113776 0
@@ -74,12 +74,12 @@
 98C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\source-map\lib\source-node.js133047094491927281 0
 104C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\package-manager\src\Yarn.js133047093937193655 0
 94C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\type-fest\ts41\index.d.ts133047094492287362 0
+112C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\ambient-light.js133047093937113644 0
+79C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\wariables.scss133049522794550570 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\KN.js133047093945033616 0
 82C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\clone\LICENSE133047093934393625 0
 139C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\package.json133047093940153627 0
 80C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\detect-libc133047093934753621 1
-112C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\ambient-light.js133047093937113644 0
-79C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\wariables.scss133049522794550570 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\AL.js133047093936593641 0
 80C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\css133047094488844574 1
 92C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\react-error-overlay\lib133047094487764577 1
@@ -92,13 +92,13 @@
 59C:\Users\395Dell\Documents\alexandrochka\Course_project\src133048616663067798 1
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\dependencies\lmdb\libraries133047093934273621 1
 87C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\clone\package.json133047093933673621 0
-63C:\Users\395Dell\Documents\alexandrochka\Course_project\src\img133047082224045829 1
+63C:\Users\395Dell\Documents\alexandrochka\Course_project\src\img133049707261841634 1
 83C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\semver\LICENSE133047093933633807 0
 124C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js133047094488524587 0
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\terser\bin\uglifyjs133047094488404565 0
 96C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\mdn-data\css\selectors.json133047094492607288 0
 147C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.linux-arm64-musl.node133047093937993637 0
-70C:\Users\395Dell\Documents\alexandrochka\Course_project\src\index.html133049528434015308 0
+70C:\Users\395Dell\Documents\alexandrochka\Course_project\src\index.html133049827704691526 0
 106C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\terser\lib\compress\native-objects.js133047094493487302 0
 96C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@jridgewell\sourcemap-codec133047094491447292 1
 85C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\tslib\tslib.html133047094487764577 0
@@ -132,7 +132,7 @@
 114C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\x-frame-options.js133047093955353716 0
 97C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\plugins\_collections.js133047094488684568 0
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\yaml\types\pairs.js133047094492367295 0
-76C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\header.scss133049538780675333 0
+76C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\header.scss133049822985791874 0
 103C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\packager-html\package.json133047094488524587 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\TN.js133047093952553753 0
 130C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\package-manager\test\validateModuleSpecifiers.test.js133047093937153654 0
@@ -154,13 +154,16 @@
 92C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\browserslist\index.d.ts133047093935553635 0
 89C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\compress.js133047094492367295 0
 95C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\cache\src\index.js133047093935393635 0
-76C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\mixins.scss133049452057996439 0
+76C:\Users\395Dell\Documents\alexandrochka\Course_project\src\sass\mixins.scss133049549960391706 0
 111C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\syntax\function\expression.js133047094493567291 0
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\ansi-styles\license133047093933713633 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\NL.js133047093947633620 0
 92C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\supports-color\index.js133047093934073643 0
 70C:\Users\395Dell\Documents\alexandrochka\Course_project\src\img\bg.png133047082224045829 0
 89C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\posthtml-parser\dist133047094491447292 1
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\src\img\Rectangle 18.png133047082222885478 0
+101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\convertor\create.js133047094492607288 0
+83C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\README.md133047094494407304 0
 104C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\runtime-js\lib\helpers\node133047094493247287 1
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\dict\dict2.txt133047093939273634 0
 73C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\.bin133047094498607312 1
@@ -172,7 +175,7 @@
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\regenerator-runtime\package.json133047094488404565 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@jridgewell\resolve-uri\LICENSE133047094487404490 0
 99C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\mdn-data\css\types.schema.json133047094492847301 0
-79C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.b07a87f3.css133049537063117555 0
+79C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.b07a87f3.css133049822987269841 0
 76C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel133047094498647291 1
 94C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-select\lib\types.d.ts133047094493247287 0
 115C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\src\requests\ValidationRequest.js133047093939873660 0
@@ -746,9 +749,9 @@
 94C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\replace\index.js133047094493207288 0
 128C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133047093937393626 0
 94C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\yaml\browser\dist\util.js133047094493567291 0
-102C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\av1.js133047093937793621 0
 107C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\yaml\browser\dist\warnings-df54cb69.js133047094493687285 0
 79C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\parcel\src133047094491047293 1
+102C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\av1.js133047093937793621 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\TL.js133047093952353743 0
 98C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\source-map-js\source-map.d.ts133047093936073658 0
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\nth-check\lib\esm\parse.d.ts.map133047094492247298 0
@@ -793,7 +796,7 @@
 99C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\xxhash-wasm\esm\xxhash-wasm.js133047093933953623 0
 100C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\plugins\convertPathData.js133047094492527309 0
 97C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\node-gyp-build\build-test.js133047093934113629 0
-108C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\daniel-rigdon-dXmXKPP2L4E-unsplash.c8ef14cc.jpg133049528437900165 0
+108C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\daniel-rigdon-dXmXKPP2L4E-unsplash.c8ef14cc.jpg133049708327022631 0
 103C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133047093934993647 0
 104C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\watcher\src\watchman\IPC.hh133047093936713630 0
 105C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\mathml.js133047093946193700 0
@@ -810,7 +813,7 @@
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\weak-lru-cache\dist133047093933633807 1
 97C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\logger\src\Logger.js133047093934273621 0
 103C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\domutils\lib\manipulation.d.ts.map133047094492007281 0
-118C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.2bec305a.jpg133049528439510146 0
+118C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.2bec305a.jpg133049708328904007 0
 88C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\semver\package.json133047093934713644 0
 102C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\transformer-babel\LICENSE133047094487524590 0
 90C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\get-port\package.json133047094487524590 0
@@ -1220,7 +1223,6 @@
 90C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\error-ex\package.json133047094487444577 0
 120C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133047093936353634 0
 81C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\LICENSE133047094487484581 0
-83C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\README.md133047094494407304 0
 110C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\svgo\plugins\addAttributesToSVGElement.js133047094491367298 0
 114C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\abortcontroller.js133047093935513626 0
 121C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@babel\highlight\node_modules\supports-color\license133047094488404565 0
@@ -1911,7 +1913,7 @@
 85C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\replace133047094493647283 1
 91C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\plugin\LICENSE133047093933713633 0
 91C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\entities\lib\decode.js133047094491087289 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_2.8e8137a9.png133049528437780213 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_2.8e8137a9.png133049708326702658 0
 85C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\lmdb\src\dbi.cpp133047093938433627 0
 96C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\cosmiconfig\dist\loaders.js133047094491407291 0
 116C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\fs-search\fs-search.linux-x64-musl.node133047093937553620 0
@@ -2174,7 +2176,7 @@
 146C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines133047093940313617 1
 97C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-what\lib\es\stringify.js133047094491567305 0
 87C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\htmlnano\docs\docs133047094494007287 1
-103C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\spacejoy-h2_3dL9yLpU-unsplash.69ec4904.jpg133049528437990165 0
+103C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\spacejoy-h2_3dL9yLpU-unsplash.69ec4904.jpg133049708327102651 0
 95C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\htmlnano\docs\package.json133047094493527288 0
 104C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\regions\alt-an.js133047093936713630 0
 107C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\temporal.js133047093951754260 0
@@ -2443,7 +2445,7 @@
 110C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\restructure\8-restructRuleset.js133047094491407291 0
 112C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\readonly-attr.js133047093948713656 0
 117C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\link-rel-prerender.js133047093945593646 0
-78C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.739bf03c.js133049528439330140 0
+78C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.739bf03c.js133049708328423971 0
 125C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133047094492487292 0
 106C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\csso\lib\restructure\prepare\index.js133047094493247287 0
 86C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\commander\esm.mjs133047094491367298 0
@@ -2602,7 +2604,6 @@
 107C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\progress.js133047093948273637 0
 107C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\definition-syntax\walk.js133047094495967290 0
 118C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\keyboardevent-which.js133047093944793652 0
-101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\convertor\create.js133047094492607288 0
 96C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\common\List.js133047094494447295 0
 108C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\common\OffsetToLocation.js133047094495047293 0
 103C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\css-tree\lib\common\TokenStream.js133047094495327290 0
@@ -2936,6 +2937,7 @@
 92C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\hash\browser.js133047093934153642 0
 105C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\lib\summarizeRequest.js133047093939393640 0
 111C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\css-any-link.js133047093939313630 0
+86C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\Rectangle 19.80ef40c6.png133049778922490102 0
 121C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\css-background-offsets.js133047093939393640 0
 122C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js133047093939393640 0
 121C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js133047093939393640 0
@@ -3123,6 +3125,7 @@
 125C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\focusoptions-preventscroll.js133047093942793617 0
 117C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js133047094488484596 0
 120C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\font-family-system-ui.js133047093942793617 0
+86C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\Rectangle 18.0b488187.png133049706525730232 0
 111C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\font-feature.js133047093942793617 0
 111C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\font-loading.js133047093942833643 0
 121C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\caniuse-lite\data\features\font-metrics-overrides.js133047093942833643 0
@@ -3487,7 +3490,7 @@
 103C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\lib\RequestTracker.js133047093939193630 0
 106C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_array_with_holes.js133047094488404565 0
 113C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_assert_this_initialized.js133047094488884575 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_4.ac4971ef.png133049528437780213 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_4.ac4971ef.png133049708326702658 0
 98C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\optimizer-css\LICENSE133047094487524590 0
 108C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_async_to_generator.js133047094491607332 0
 127C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133047094487844576 0
@@ -3514,7 +3517,7 @@
 105C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_define_property.js133047094493367290 0
 120C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@babel\highlight\node_modules\color-name\.npmignore133047094487804645 0
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_export_star.js133047094493367290 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_1.4f015140.png133049528439230161 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_1.4f015140.png133049708328343973 0
 98C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_inherits.js133047094493487302 0
 116C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\package-manager\src\NodeResolverBase.js133047093936793619 0
 104C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@swc\helpers\lib\_inherits_loose.js133047094493487302 0
@@ -3967,7 +3970,7 @@
 109C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\graph\test\AdjacencyList.test.js133047093935193640 0
 145C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback133047094494807287 1
 154C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up133047094494927283 1
-112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\billy-jo-catbagan-HR1x0_5dakE-unsplash.ed708eb1.jpg133049528437980154 0
+112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\billy-jo-catbagan-HR1x0_5dakE-unsplash.ed708eb1.jpg133049708327102651 0
 95C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\core\src\worker.js133047093939913622 0
 91C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\codeframe\test133047093936673639 1
 142C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\source-not-symlinked133047094494927283 1
@@ -3986,7 +3989,7 @@
 156C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\b\index.js133047094493447310 0
 144C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false\src133047094493687285 1
 158C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module-fallback\package.json133047094494807287 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_6.dc46c0c1.png133049528437780213 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_6.dc46c0c1.png133049708326702658 0
 146C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\module.js133047094493927285 0
 160C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main-directory\nested\index.js133047094493327286 0
 142C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-main\main.js133047094493847278 0
@@ -4214,7 +4217,7 @@
 129C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi93.node133047093934713644 0
 126C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133047093933833628 0
 101C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@mischnic\json-sourcemap\LICENSE133047093933713633 0
-71C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.html133049528437770183 0
+71C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.html133049827159506394 0
 107C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@mischnic\json-sourcemap\dist\index.js133047093934713644 0
 89C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@lmdb\lmdb-win32-x64133047093936913623 1
 106C:\Users\395Dell\Documents\alexandrochka\Course_project\node_modules\@lmdb\lmdb-win32-x64\node.abi102.node133047093935353641 0
@@ -4368,7 +4371,7 @@
 102C:\Users\395Dell\Documents\alexandrochka\Course_project\img\billy-jo-catbagan-wbFdIybjRiU-unsplash.jpg133047082222885478 0
 95C:\Users\395Dell\Documents\alexandrochka\Course_project\img\brina-blum-nWX4pKwzLoE-unsplash.jpg133049431120506999 0
 65C:\Users\395Dell\Documents\alexandrochka\Course_project\img\faces133048616663057801 1
-65C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons133047082222965467 1
+65C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons133049707261841634 1
 108C:\Users\395Dell\Documents\alexandrochka\Course_project\img\jean-philippe-delberghe-Ry9WBo3qmoc-unsplash.jpg133049429492297735 0
 94C:\Users\395Dell\Documents\alexandrochka\Course_project\img\kara-eads-L7EwHkq1B2s-unsplash.jpg133049430102895613 0
 93C:\Users\395Dell\Documents\alexandrochka\Course_project\img\spacejoy-h2_3dL9yLpU-unsplash.jpg133049432552077498 0
@@ -4377,20 +4380,20 @@
 76C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\icon_3.png133047082222925477 0
 76C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\icon_4.png133047082222925477 0
 83C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\linkedin_icon.png133047082222965467 0
-82C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\Rectangle 18.png133047082222885478 0
 81C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\Rectangle 2.png133047082222885478 0
 82C:\Users\395Dell\Documents\alexandrochka\Course_project\img\icons\twitter_icon.png133047082222965467 0
 111C:\Users\395Dell\Documents\alexandrochka\Course_project\img\faces\mateus-campos-felipe-JoM_lC1WAnE-unsplash.jpg133048616663027810 0
-112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\billy-jo-catbagan-wbFdIybjRiU-unsplash.f85d80b2.jpg133049528437850166 0
-112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\christian-buehner-84E44EdD18o-unsplash.f3a8fc80.jpg133049528439540152 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_3.74b58faf.png133049528439220162 0
-80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_5.241bef77.png133049528439230161 0
-82C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.739bf03c.js.map133049528439360155 0
-83C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.b07a87f3.css.map133049537063137564 0
-108C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jason-briscoe-UV81E0oXXWQ-unsplash.3f380798.jpg133049528439500163 0
-118C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jean-philippe-delberghe-xrjusFfOksI-unsplash.99811e71.jpg133049528439530157 0
-115C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\mateus-campos-felipe-JoM_lC1WAnE-unsplash.bf8181c5.jpg133049528439500163 0
-111C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\philipp-wuthrich-5n3JP9WAJTs-unsplash.7b531189.jpg133049528437830168 0
-103C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\spacejoy-io5Tvjh7vCc-unsplash.45afc783.jpg133049528438000158 0
+112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\billy-jo-catbagan-wbFdIybjRiU-unsplash.f85d80b2.jpg133049708326902641 0
+112C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\christian-buehner-84E44EdD18o-unsplash.f3a8fc80.jpg133049708328983986 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_3.74b58faf.png133049708328423971 0
+80C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\icon_5.241bef77.png133049708328423971 0
+82C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.739bf03c.js.map133049708328503984 0
+83C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\index.b07a87f3.css.map133049822987279850 0
+108C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jason-briscoe-UV81E0oXXWQ-unsplash.3f380798.jpg133049708328863969 0
+118C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\jean-philippe-delberghe-xrjusFfOksI-unsplash.99811e71.jpg133049708328943971 0
+115C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\mateus-campos-felipe-JoM_lC1WAnE-unsplash.bf8181c5.jpg133049708328943971 0
+111C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\philipp-wuthrich-5n3JP9WAJTs-unsplash.7b531189.jpg133049708326822641 0
+86C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\Rectangle 18.422fc150.png133049719445956034 0
+103C:\Users\395Dell\Documents\alexandrochka\Course_project\dist\spacejoy-io5Tvjh7vCc-unsplash.45afc783.jpg133049708327102651 0
 69C:\Users\395Dell\Documents\alexandrochka\Course_project\css\index.css133040255306539884 0
 70C:\Users\395Dell\Documents\alexandrochka\Course_project\css\index.sass133040255384197988 0

@@ -3,27 +3,46 @@
 #pictures{
     max-width: 1510px;
     margin: 0 auto;
-    
     position: relative;
 }
 
-.list {
+.pictures__wrap {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 2px;
+    gap: 1px;
    
 }
-.pic {
-    position: sticky;
-    width: 370px;
-    height: 340px;
+/*.hover {
+    display: none;
 }
-.pic img {
-    width: 100%;
-    height: 100%;
+/*.active {
+    display: none;
+}*/
+.image__pic img {
+    width: 24vw;
+    height: 47vh;
     object-position: center;
     object-fit: cover;
     overflow: hidden;
 }
+
+.hover:hover{
+    display: inline-block;
+    
+}
+
+/*.active::after {
+    content: '';
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(38, 43, 67, 0.8); 
+
+}*/
+
+
