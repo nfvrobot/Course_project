@@ -61,6 +61,7 @@
 
  .active__nav {
     width: 670px;
+    position: relative;
  }   
 .list__nav {
     width: 670px;
@@ -68,6 +69,7 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
+    line-height: 15px;
    
 }
 
@@ -80,14 +82,17 @@
 }
 /*.list__item a::after{
     content: "";
-        width: 0;
-        height: 2px;
-        background-color: #fff;
-        position: absolute;
-        top: 100%;
-        right: 25%;
+    width: 0;
+    height: 2px;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 25%;
         
 
+}
+.list__item a :hover ::after {
+    width: 50%;
 }*/
 .list__item a:hover {
     padding-bottom: 40px;
