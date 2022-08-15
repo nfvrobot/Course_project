@@ -29,9 +29,13 @@
 
 }
 .card__title {
-    @include card__title;
-    padding: 10px 20px;
+   
     margin-bottom: 20px;
+}
+.card__title h3{
+    padding: 10px 20px;
+    @include card__title;
+    
 
 }
 .card__text {

@@ -1,7 +1,6 @@
 @import '../sass/mixins.scss';
 
 #pictures{
-    max-width: 1510px;
     margin: 0 auto;
     position: relative;
 }
@@ -14,25 +13,83 @@
     gap: 1px;
    
 }
-/*.hover {
-    display: none;
+
+.image__item {
+    position: relative;
 }
-/*.active {
-    display: none;
-}*/
-.image__pic img {
+.image__item img {
     width: 24vw;
-    height: 47vh;
+    height: 35vh;
     object-position: center;
     object-fit: cover;
     overflow: hidden;
-}
-
-.hover:hover{
-    display: inline-block;
+    opacity: 1;
     
 }
 
+
+.image__item-hover {
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    background-color: rgba(255, 67, 67, 0);
+    cursor: pointer;
+   
+}
+.image__item-hover h4 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $_white;
+    opacity: 0;
+}
+.hover-span {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $_white;
+    opacity: 0;
+}
+.image__item-hover:hover {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    background-color: rgba(255, 67, 67, 0.8);
+        h4 {
+            margin: 0;
+            opacity: 1;
+            
+
+            @include item-hover; 
+    }
+        span {
+            margin: 0;
+            opacity: 1;
+            @include hover-span;
+    }
+}  
+
+.image__item-hover:active {
+    background-color: rgba(185, 12, 12, 0.8);
+}  
+
+/*.image__item-hover:hover {
+    opacity: 0.8;
+}
+.image__item img:hover {
+    width: 24vw;
+    height: 35vh;
+    object-position: center;
+    object-fit: cover;
+    overflow: hidden;
+    opacity: 0;
+}*/
 /*.active::after {
     content: '';
     display: block;
@@ -42,7 +99,9 @@
     top: 0;
     left: 0;
     background: rgba(38, 43, 67, 0.8); 
-
 }*/
+
+
+/*<div><img  src="../img/icons/Rectangle 19.png" alt="#"></div>*/
 
 

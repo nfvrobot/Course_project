@@ -10,7 +10,7 @@
     justify-content: space-between;
 }
 .location {
-    width: 30%;
+    width: 30vw;
     margin: 0 15px;
     
 }
@@ -20,6 +20,10 @@
 .location__title h4 {
     @include location__title;
 }
+.location__descr {
+    display: block;
+}
+
 .location__descr span {
     text-align: center;
     @include location__descr
@@ -31,4 +35,5 @@
     gap: 0 30px;
     
 }
+
 

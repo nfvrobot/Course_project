@@ -8,9 +8,9 @@
 
 
 .info__text{
-    display: block;
     width: 30%;
-    margin: 0 auto;
+    text-align: center;
+    margin: auto;
 }
 .info__text span{
     @include footer__two;

@@ -1,0 +1,45 @@
+@import '../sass/mixins.scss';
+
+
+.slider__wrap {
+    display: block;
+    margin: auto;
+    width: 100%;
+    display: flex;
+   
+}
+.slider__wrap-left {
+    width: 55%;
+}
+.slider__wrap-left img {
+    width: 100%;
+   
+}
+
+.slider__wrap-right {
+    width: 45%;
+    background-color: #5C3249;
+}
+.right__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.slider__text {
+    display: block;
+    padding: 30px 40px;
+    text-align: center;
+    
+    @include slider__text;
+}
+.slider__span {
+    display: block;
+
+    @include slider__span;
+}
+
+.input {
+    margin-top: 30px;
+    position: relative;
+	text-align: center;
+}
